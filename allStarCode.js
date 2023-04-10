@@ -9,3 +9,4 @@ function strCount(str, letter){
         numberOfTimes++;
     }
     return numberOfTimes
+}
